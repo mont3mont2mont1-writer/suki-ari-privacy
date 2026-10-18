@@ -36,7 +36,7 @@ Collected data is kept in Google Analytics for 2 months.
 
 ## Data stored on your device
 
-The Extension saves your settings, a game in progress, and the anonymous client ID in your browser (`chrome.storage.local`). This data stays on your device and is deleted when you remove the Extension.
+The Extension saves your settings, a game in progress, and the anonymous client ID in your browser (`chrome.storage.local`). Except for the anonymous client ID, which is sent with the usage stats described above, this data stays on your device. It is deleted when you remove the Extension.
 
 ## How to opt out
 
@@ -88,7 +88,7 @@ Please use the contact email address shown on the Extension's Chrome Web Store p
 
 ## 端末に保存する情報
 
-本拡張機能は、設定、進行中のゲーム、匿名のクライアント ID を、ブラウザの中（`chrome.storage.local`）に保存します。これらは端末の外には出ず、本拡張機能を削除すると消えます。
+本拡張機能は、設定、進行中のゲーム、匿名のクライアント ID を、ブラウザの中（`chrome.storage.local`）に保存します。上記の利用統計とともに送る匿名のクライアント ID を除き、これらは端末の外には出ません。本拡張機能を削除すると消えます。
 
 ## 送信を止める方法
 
