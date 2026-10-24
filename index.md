@@ -1,5 +1,5 @@
 ---
-title: Cross Pixels:FLAG RUNNER — Privacy Policy
+title: SUKI ARI! — Privacy Policy
 ---
 
 [English](#english) | [日本語](#japanese)
@@ -8,9 +8,9 @@ title: Cross Pixels:FLAG RUNNER — Privacy Policy
 
 # Privacy Policy
 
-Last updated: 2026-10-18
+Last updated: 2026-10-24
 
-This policy applies to the Chrome extension "Cross Pixels:FLAG RUNNER" (the "Extension"), developed by MONT³.
+This policy applies to the Chrome extension "SUKI ARI!" (the "Extension"), developed by MONT³.
 
 ## Information we collect
 
@@ -60,9 +60,9 @@ Please use the contact email address shown on the Extension's Chrome Web Store p
 
 # プライバシーポリシー
 
-最終更新日: 2026-10-18
+最終更新日: 2026-10-24
 
-このポリシーは、MONT³ が開発した Chrome 拡張機能「Cross Pixels:FLAG RUNNER」（以下「本拡張機能」）に適用します。
+このポリシーは、MONT³ が開発した Chrome 拡張機能「スキあり！」（以下「本拡張機能」）に適用します。
 
 ## 取得する情報
 
